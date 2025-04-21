@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ba40e897-7a9f-4cce-98bc-1e4ed9d8b1c1)# Interactive-Sales-Analytics-Dashboard-Using-Tableau
+# Interactive-Sales-Analytics-Dashboard-Using-Tableau
 
 [Tableau Public Viz Dashboard](https://public.tableau.com/app/profile/kuldeep.singh.chouhan4396/viz/SalesInside_16496775888240/Dashboard)
 
