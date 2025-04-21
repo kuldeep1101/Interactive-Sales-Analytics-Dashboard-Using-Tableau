@@ -1,4 +1,4 @@
-# Interactive-Sales-Analytics-Dashboard-Using-Tableau
+![image](https://github.com/user-attachments/assets/ba40e897-7a9f-4cce-98bc-1e4ed9d8b1c1)# Interactive-Sales-Analytics-Dashboard-Using-Tableau
 
 [Tableau Public Viz Dashboard](https://public.tableau.com/app/profile/kuldeep.singh.chouhan4396/viz/SalesInside_16496775888240/Dashboard)
 
@@ -15,6 +15,8 @@ The goal of this project was to convert complex sales data into a user-friendly,
 
 ## 3. Data Sources
 Sales Raw Data: Provided in an Excel file containing detailed sales records, including product types, revenue figures, cost structures, and units sold.
+- Companies : A, B, C, D, E
+- Products : Chocolate Chip, Fortune Cookie, Oatmeal Raisin, Snickerdoodle, Sugar, White Chocolate Macadamia Nut
 
 ## 4. Data Preparation and Cleaning
 ### Data Collection
